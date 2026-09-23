@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--v2ray-gi1hi320b.com/sitemap.xml

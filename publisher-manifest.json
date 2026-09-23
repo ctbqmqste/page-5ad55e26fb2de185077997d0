@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2ae3c4afeed951265fbc3ff0",
+  "owner": "ctbqmqste",
+  "repo": "page-5ad55e26fb2de185077997d0",
+  "title": "超牛(Cow)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5ad55e26fb2de185077997d0",
+      "a": "超牛(Cow)",
+      "b": "稳定全球clash加速器",
+      "entity": "超牛(Cow)",
+      "brand": "超牛(Cow)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a12235f266e2ea973b5ed680896396180b6625404b9c272f40aa2ededc8073b4",
+      "content": {
+        "primary_entity": "超牛(Cow)",
+        "keyword1": "超牛(Cow)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选对应客户端，再导入订阅信息。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后下载匹配客户端并导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "让连接更顺畅",
+          "AI_DESCRIPTION": "，为需要稳定访问全球网络资源的用户提供多档套餐与节点选择空间。基础版适合轻度上网与移动设备，旗舰版增加 IPLC 专线与原生流媒体解锁，团队版面向多设备与定制路由需求。订阅导入后可在 Clash 等常见客户端上按设备系统完成配置，按周期付费更灵活。",
+          "AI_FEATURES_INTRO": "三项与日常订阅选择相关的实际特点。",
+          "AI_FEATURES_TITLE": "特点概览",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月或按年选择均可。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台到 20 台设备同时在线，覆盖个人手机、电脑与家庭多端场景。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供 IPLC 专线和 VIP 高带宽节点，适合游戏、直播与企业分流。",
+          "AI_FEATURE_TITLE_1": "流量分档清晰",
+          "AI_FEATURE_TITLE_2": "多设备支持",
+          "AI_FEATURE_TITLE_3": "线路差异可选",
+          "AI_GUIDE_INTRO": "从了解套餐到完成订阅导入，三个步骤即可上手。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "超牛(Cow)提供稳定全球网络连接方案，套餐覆盖基础版、旗舰版与团队版，分别对应不同流量、设备数量和线路需求。选择套餐后按设备系统下载客户端，导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，稳定连接全球",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB 含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 支持 20 台设备",
+          "AI_PLANS_INTRO": "按流量、设备数和线路需求对比基础版、旗舰版与团队版，年付更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、同时在线设备数量和线路类型，从基础版、旗舰版或团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认所持手机、电脑或路由设备是否在套餐支持范围内，旗舰版与团队版可满足更多终端。",
+          "AI_STEP_TEXT_3": "在客户端中粘贴订阅地址并更新节点列表，按所用客户端的配置方式保存后即可选用线路。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "超牛(Cow)全球加速",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。同一时间在线的设备数量不能超过所选套餐上限，切换设备时退出旧设备即可。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。流量按自然月重置，超出后当月无法继续使用，可在下月自动恢复。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供 IPLC 专线并对游戏加速做优化，延迟表现优于普通线路；基础版使用普通节点池，适合日常浏览与视频场景。",
+          "AI_FAQ_ANSWER_4": "支持按年付，基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年，团队版按年付仅需 ¥850/年，相比月付节省两个月费用。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入订阅地址后即可连接，各平台客户端支持一键更新节点；如果线路调整，客户端会自动同步最新节点列表。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "每月流量用完后会怎样？",
+          "AI_FAQ_QUESTION_3": "旗舰版和基础版的线路有什么区别？",
+          "AI_FAQ_QUESTION_4": "是否支持按年付费？",
+          "AI_FAQ_QUESTION_5": "如何在客户端中导入订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--v2ray-gi1hi320b.com",
+    "host": "xn--v2ray-gi1hi320b.com"
+  },
+  "file_hashes": {
+    "index.html": "febcf562efe24d82d343d41a61aaa7b41ec522fc92f0c31eea913374e3b040e8",
+    "sitemap.xml": "5fb845ec8e32bf0a6dd5c68eace610d84dbcbfab71f52a426ff4e00b4aaf1caa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6543caed114618c28026e6873ab807f563da3581e1d1d25f43733648963185a8",
+    "robots.txt": "97b05f6dca2d7da5beca3bb4661d1b7aef792719d36efe9981b60cb7a194d4e0",
+    "4798bb189e3222bdf427d0eaa5bb937d.txt": "130d3125bebe13c17d877e36cc2877d9f6a9e00184f5340d34662ddb540c40cf"
+  },
+  "revision": "429845a3dc96a58d020ccb7f9feb753423030b26eab70245131d5038fbe5207c"
+}
